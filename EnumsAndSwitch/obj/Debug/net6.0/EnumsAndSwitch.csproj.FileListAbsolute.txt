@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\net6.0\EnumsAndSwitch.exe
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\net6.0\EnumsAndSwitch.deps.json
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\net6.0\EnumsAndSwitch.runtimeconfig.json
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\net6.0\EnumsAndSwitch.dll
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\net6.0\ref\EnumsAndSwitch.dll
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\net6.0\EnumsAndSwitch.pdb
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.dll
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net6.0\ref\EnumsAndSwitch.dll
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.pdb
+C:\Users\DELL\source\repos\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.genruntimeconfig.cache
